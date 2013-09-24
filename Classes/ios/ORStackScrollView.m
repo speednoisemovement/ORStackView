@@ -21,7 +21,6 @@
     if (!self) return self;
 
     _stackView = [[ORStackView alloc] init];
-    self 
 
     return self;
 }
